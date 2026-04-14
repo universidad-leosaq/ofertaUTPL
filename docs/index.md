@@ -1,6 +1,6 @@
 # Oferta Académica
 
-Oferta académica de la universidad, organizada por facultades.
+Oferta académica de la universidad UTPL, organizada por facultades.
 
 ---
 
