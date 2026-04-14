@@ -4,7 +4,7 @@ Oferta académica de la universidad UTPL, organizada por facultades.
 
 ---
 
-<h2 style="color:#003366; border-bottom:2px solid #003366; padding-bottom:5px;">Facultad de Ciencias Económicas y Empresariales</h2>
+## Facultad de Ciencias Económicas y Empresariales
 
 <div style="display:flex; flex-wrap:wrap; gap:10px;">
 
